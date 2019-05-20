@@ -102,7 +102,7 @@ def quest_four_a():
 
 def quest_four_b():
     if v.mouth == 1:
-        print('You decide to further your weird mouth fetish and shove the torch into your mouth again.')
+        print('You decide to further your weird mouth desire and shove the torch into your mouth again.')
         v.timing()
         print('It still tastes like wood.')
         v.timing()

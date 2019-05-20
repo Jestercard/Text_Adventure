@@ -7,7 +7,7 @@ answer = None
 
 verbs_how = []
 verbs_where = ['run', 'walk', 'go', 'jog', 'look', ]
-verbs_what = ['eat', 'chew', 'lick', 'fuck', 'use']
+verbs_what = ['eat', 'chew', 'lick', 'use']
 
 
 def skeleton():
